@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "name": "John Doe",
+      "email": "test@example.com",
+      "mobile": "1234567890"
+    },
+    {
+      "name": "Aman Singh",
+      "email": "aman.singh1252002@gmail.com",
+      "mobile": "9958569943"
+    },
+    {
+      "name": "Raj",
+      "email": "raj@test.com",
+      "mobile": "9898989898"
+    }
+  ],
+  "messages": []
+}
